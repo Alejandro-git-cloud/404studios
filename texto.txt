@@ -1,0 +1,7 @@
+sitio web basic con html, css(flexbox,grid,scrollreveal)
+ & javascript
+con codigo css adaptable a dispositivos moviles
+icono de buscador de font awsome fas fa-search,
+display grid; gap, grid tamplates columns, etc..
+font awsome para iconos (sociales, busqueda,etc)
+
